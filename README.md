@@ -14,6 +14,15 @@
 ## Manual de Instalación del Proyecto
 ### [Manual](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Proceso%20de%20instalaci%C3%B3n%20del%20proyecto.pdf).
 
+## Manual de Usuario
+### [Manual](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Manual%20de%20usuario.pdf).
+
+## Pruebas de Caja Negra
+### [Pruebas](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Casos%20de%20prueba.xlsx).
+
+## Plan de Iteraciones
+### [Iteraciones](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Plan%20de%20iteraciones.xlsx).
+
 ## Carpeta Back-End
 ### [Back-End](https://github.com/CarlosMR75/Integradora_II/tree/main/BackEnd-GymCapyFit).
 
