@@ -1,6 +1,6 @@
 # Integradora_II
 ## Archivo Propuesta de Solución
-### [Propuesta]([https://github.com/CarlosMR75/Integradora_II/tree/main/GymCapyFit](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Reporte%20Propuesta%20de%20Soluci%C3%B3n.docx)).
+### [Propuesta]([https://github.com/CarlosMR75/Integradora_II/tree/main/GymCapyFit](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Reporte%20Propuesta%20de%20Soluci%C3%B3n.pdf)).
 
 ## Archivo Generalidades del Proyecto
 ### [Generalidades]([https://github.com/CarlosMR75/Integradora_II/tree/main/GymCapyFit](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Generalidades%20de%20la%20propuesta%20de%20solucion.pdf)).
