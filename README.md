@@ -1,6 +1,15 @@
 # GymCapyFit
 Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio asignado por la empresa iTTiVA
 
+## Integrantes
+- Juan Pablo Jimenez Jaime
+- Carlos Eduardo Mata Rojas
+- Marisol Nuñez Monasterio
+- Maria Fernanda Palacios Rangel
+
+# Objetivo del Proyecto
+Gestiónar las asistencias de los empleados en un gimnasio, generando un código QR que contendra los datos del empleado y mediante un escáner QR este permitira al empleado registrar su entrada y salida, ademas se podra consultar un registro de las asistencias, retardos y faltas de cada empleado por mes.
+
 ## Archivo Propuesta de Solución
 ### [Propuesta](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Reporte%20Propuesta%20de%20Soluci%C3%B3n.pdf).
 
