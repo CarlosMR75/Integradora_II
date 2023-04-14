@@ -1,4 +1,6 @@
-# Integradora_II
+# GymCapyFit
+Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio asignado por la empresa iTTiVA
+
 ## Archivo Propuesta de Solución
 ### [Propuesta](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Reporte%20Propuesta%20de%20Soluci%C3%B3n.pdf).
 
