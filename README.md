@@ -10,6 +10,12 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 # Objetivo del Proyecto
 Gestiónar las asistencias de los empleados en un gimnasio, generando un código QR que contendra los datos del empleado y mediante un escáner QR este permitira al empleado registrar su entrada y salida, ademas se podra consultar un registro de las asistencias, retardos y faltas de cada empleado por mes.
 
+## Diagrama de Casos de Uso
+![imagen](https://user-images.githubusercontent.com/106355475/232168653-8fde5cc3-9036-40a7-ade9-c7b9d532b96a.png)
+
+## Organigrama del Equipo
+![imagen](https://user-images.githubusercontent.com/106355475/232168585-a70f95e6-c174-4a45-b36e-84d3d172024c.png)
+
 ## Archivo Propuesta de Solución
 ### [Propuesta](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Reporte%20Propuesta%20de%20Soluci%C3%B3n.pdf).
 
