@@ -7,8 +7,14 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 - Marisol Nuñez Monasterio
 - Maria Fernanda Palacios Rangel
 
-# Objetivo del Proyecto
+## Objetivo del Proyecto
 Gestiónar las asistencias de los empleados en un gimnasio, generando un código QR que contendra los datos del empleado y mediante un escáner QR este permitira al empleado registrar su entrada y salida, ademas se podra consultar un registro de las asistencias, retardos y faltas de cada empleado por mes.
+
+## Objetivos Específicos 
+- Registrar entrada y salida de los empleados del gimnasio.
+- Controlar la asistencia y puntualidad de los empleados.
+- Facilitar el cálculo de las asistencias y retardos de los empleados.
+- Generar información estadística sobre la asistencia y puntualidad de los empleados.
 
 ## Diagrama de Casos de Uso
 ![imagen](https://user-images.githubusercontent.com/106355475/232168653-8fde5cc3-9036-40a7-ade9-c7b9d532b96a.png)
@@ -25,6 +31,9 @@ La tabla CheckIn servira para almacenar las entradas y salidas de los empleados,
 
 ## Historia de Usuario
 ![imagen](https://user-images.githubusercontent.com/106355475/232169775-2751f0f6-a4de-4fb1-aa09-571d4fa0411e.png)
+
+## Modelo Vista - Controlador
+![imagen](https://user-images.githubusercontent.com/106355475/232170385-4176e838-11de-4278-a086-f859e03ae2c2.png)
 
 ## Organigrama del Equipo
 ![imagen](https://user-images.githubusercontent.com/106355475/232168585-a70f95e6-c174-4a45-b36e-84d3d172024c.png)
