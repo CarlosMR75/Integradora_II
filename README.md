@@ -16,6 +16,7 @@ Gestiónar las asistencias de los empleados en un gimnasio, generando un código
 ## Modelo de Base de Datos
 ### Tabla CheckIn
 ![imagen](https://user-images.githubusercontent.com/106355475/232168859-a0956208-e7ed-4372-a4ff-7aaf66800a7f.png)
+
 La tabla CheckIn servira para almacenar las entradas y salidas de los empleados, esta cuenta con las siguientes columnas:
 - IdEmpleado: Valor que servira como identificador para asignar el registro a un empleado (Valor Numerico). 
 - Fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
