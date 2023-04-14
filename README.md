@@ -13,6 +13,18 @@ Gestiónar las asistencias de los empleados en un gimnasio, generando un código
 ## Diagrama de Casos de Uso
 ![imagen](https://user-images.githubusercontent.com/106355475/232168653-8fde5cc3-9036-40a7-ade9-c7b9d532b96a.png)
 
+## Modelo de Base de Datos
+### Tabla CheckIn
+![imagen](https://user-images.githubusercontent.com/106355475/232168859-a0956208-e7ed-4372-a4ff-7aaf66800a7f.png)
+La tabla CheckIn servira para almacenar las entradas y salidas de los empleados, esta cuenta con las siguientes columnas:
+- IdEmpleado: Valor que servira como identificador para asignar el registro a un empleado (Valor Numerico). 
+- Fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
+- Hora: Campo en el que se almacenaran los minutos y la hora en que se hizo el registro (Valor Tipo Cadena).
+- Tipo: Valor que pemitira diferenciar cuando un registro es de **entrada** o **salida** (Valor Tipo Cadena).
+
+## Historia de Usuario
+![imagen](https://user-images.githubusercontent.com/106355475/232169775-2751f0f6-a4de-4fb1-aa09-571d4fa0411e.png)
+
 ## Organigrama del Equipo
 ![imagen](https://user-images.githubusercontent.com/106355475/232168585-a70f95e6-c174-4a45-b36e-84d3d172024c.png)
 
