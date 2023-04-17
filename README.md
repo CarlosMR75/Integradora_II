@@ -1,6 +1,52 @@
 # GymCapyFit
 Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio asignado por la empresa iTTiVA
 
+## Contenido
+<details>
+  <summary>contenido</summary>
+  <ol>
+    <li>
+      <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
+      <ul>
+        <li><a href="#descripción">Descripción</a></li>
+        <li><a href="#objetivo-general">Objetivo General</a></li>
+        <li><a href="#objetivos-específicos">Objetivos específicos</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#análisis-y-diseño-de-la-solución">Análisis y Diseño de la Solución</a>
+      <ul>
+        <li><a href="#historias-de-usuario">Historias de Usuario</a></li>
+        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
+        <li><a href="#modelo-de-la-base-de-datos">Modelo de la Base de Datos</a></li>
+        <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
+        <li><a href="#diagrama-de-actividades">Diagrama de Actividades</a></li>
+        <li><a href="#modelo-vista-controlador">Modelo Vista Controlador</a></li>
+        <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#implementación">Implementación</a>
+      <ul>
+        <li><a href="#estándares-de-codificación">Estándares de Codificación</a></li>
+        <li><a href="#código-fuente">Código Fuente</a></li>
+      </ul>
+    </li>      
+    <li><a href="#casos-de-prueba-y-su-ejecución">Casos de Prueba y su Ejecución</a></li>       
+    <li>
+      <a href="#guias">Guias</a>
+      <ul>
+        <li><a href="#requisitos">Requisitos</a></li>
+        <li><a href="#guia-de-instalación">Guía de Instalación</a></li>
+        <li><a href="#guia-de-uso">Guía de Uso</a></li>
+      </ul>
+    </li>
+    <li><a href="#contribución">Contribución</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#participantes">Participantes</a></li>
+  </ol>
+</details>
+
 ## Integrantes
 - Juan Pablo Jimenez Jaime
 - Carlos Eduardo Mata Rojas
