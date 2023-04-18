@@ -1,3 +1,5 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
+
 import CheckIn from "../models/CheckIn"; //Importación de modelo CheckIn
 
 //Metódo para obtener todos los checkin

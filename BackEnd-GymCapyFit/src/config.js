@@ -1,3 +1,5 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
+
 //Importación config
 import { config } from 'dotenv';
 

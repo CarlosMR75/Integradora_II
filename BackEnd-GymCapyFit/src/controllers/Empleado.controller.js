@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import Empleado from "../models/Empleado"; //Importación de modelo Empleado
 import config from "../config"; //Importación de configuración para generar token
 import jwt from "jsonwebtoken"; //Importación de jwt para generar token

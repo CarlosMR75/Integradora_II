@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import { Router } from "express"; //Importación Router de express
 
 import * as rolController from "../controllers/Rol.controller"; //Importación de metódos

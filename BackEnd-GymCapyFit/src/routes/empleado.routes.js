@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import { Router } from "express"; //Importación Router de express
 import { authJwt, verifySignup } from "../middlewares"; //Importación de middlewares authJwt y verifySignup
 

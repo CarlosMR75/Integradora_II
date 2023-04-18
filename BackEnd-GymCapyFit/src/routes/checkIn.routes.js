@@ -1,3 +1,5 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
+
 import { Router } from "express"; //Importación Router de express
 
 import * as checkInController from "../controllers/CheckIn.controller"; //Importación de metódos

@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import { Schema, model } from "mongoose"; //Importación Schema y model de mongoose
 
 //Creación de esquema para la colección

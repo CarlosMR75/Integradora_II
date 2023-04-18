@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 //Importación de modulos npm (express, morgan, cors)
 import express from "express";
 import morgan from "morgan";

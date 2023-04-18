@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import { Schema, model } from "mongoose"; //Importación Schema y model de mongoose
 import bcrypt from 'bcryptjs'; //Importación bcrypt de bcryptjs para encriptación de contraseña
 

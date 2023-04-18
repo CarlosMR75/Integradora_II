@@ -1,3 +1,5 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
+
 import { Schema, model } from "mongoose"; //Importación Schema y model de mongoose
 
 //Creación de esquema para la colección

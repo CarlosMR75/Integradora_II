@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import app from "./app"; //Importación de configuraciones de la aplicación
 import "./database"; //Importación de la configuración de la base de datos
 

@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 import Rol from "../models/Rol"; //Importación de modelo Rol
 
 //Metódo para obtener todos los roles

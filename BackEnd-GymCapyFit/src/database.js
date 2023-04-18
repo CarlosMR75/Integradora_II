@@ -1,3 +1,5 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
+
 //Importación de mongoose y config
 import mongoose from "mongoose";
 import config from "./config";
