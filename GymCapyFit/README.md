@@ -3,6 +3,7 @@
 La documentación del código del Front fue hecha por los integrantes:
 - Carlos Eduardo Mata Rojas
 - Juan Pablo Jimenez Jaime
+ 
 Se añaden los apartados de cada componente así como los archivos individuales que forman al mismo compoenente, como
 lo son: Los archivos del html y ts. El apartado de roles no se intengro con el proyecto grupo pues fue para poder
 realizar pruebas, además de que el código se adato al proyecto final.
