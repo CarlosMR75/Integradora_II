@@ -18,16 +18,17 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
         <li><a href="###Diagramas-de-Actividades">Diagrama de Actividades</a></li>
         <li><a href="###Objetivos-Específicos">Objetivo del Proyecto</a></li>
         <li><a href="###Historias-de-Usuario">Historias de Usuario</a></li>
-        <li><a href="###Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>a
-        <li><a href="###Diagramas-de-Componentes">Diagramas de Componentes</a></li>a
+        <li><a href="###Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
+        <li><a href="###Diagramas-de-Componentes">Diagramas de Componentes</a></li>
         <li><a href="###Modelo-de-Base-de-Datos">Modelo de Base de Datos</a></li>
         <li><a href="###Diagrama-de-Grantt">Diagrama de Grantt</a></li>
       </ul>
-      <a href="##Manuales">Análisis y Diseño de la Solución</a>
+      <a href="##Manuales">Manuales</a>
       <ul>
         <li><a href="###Manual-de-Instalación">Manual de Instalación</a></li>
         <li><a href="###Manual-de-Usuario">Manual de Usuario</a></li>
       </ul>
+      <a href="##Codigo-Fuente">Codigo Fuente</a>
       <a href="##Casos-de-Prueba">Casos de Prueba</a>
       <a href="##Organigrama-del-Equipo">Organigrama del Equipo</a>
     </li>
@@ -97,6 +98,10 @@ El manual contiene los pasos a seguir para realizar la instalación del proyecto
 El manual contiene ejemplos visuales de como realizar las operaciones en la aplicación, orientado a un usuario.
 
 [Manual de Usuario](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Manual%20de%20usuario.pdf)
+
+## Codigo Fuente
+- [Front-End](https://github.com/CarlosMR75/Integradora_II/tree/main/GymCapyFit)
+- [Back-End](https://github.com/CarlosMR75/Integradora_II/tree/main/BackEnd-GymCapyFit)
 
 ## Casos de Prueba
 Este cuenta con las pruebas necesarias para probar la funcionalidad del CheckIn de la aplicación mediante el código QR de un empleado.
