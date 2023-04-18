@@ -77,7 +77,7 @@ Control de Asistencias
 ### Diagramas de Componentes
 Diagrama de componentes checkIn
 
-![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
+![imagen](https://user-images.githubusercontent.com/106355475/232858418-b9b6b0cf-75b2-4d42-ae0e-8319d97b0b67.png)
 
 ### Modelo de Base de Datos
 Tabla checkIn
