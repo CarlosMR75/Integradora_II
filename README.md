@@ -69,7 +69,18 @@ Control de Asistencias
 ![imagen](https://user-images.githubusercontent.com/106355475/232172160-911e5b39-6dcb-4eaf-8394-c394a1406e76.png)
 
 ### Historias de Usuario
-![imagen](https://user-images.githubusercontent.com/106355475/232169775-2751f0f6-a4de-4fb1-aa09-571d4fa0411e.png)
+Registro CheckIn
+
+![imagen](https://user-images.githubusercontent.com/106355475/232917975-bde2355c-0f8e-4d53-89f9-abdf260e2116.png)
+
+Control CheckIn
+
+![imagen](https://user-images.githubusercontent.com/106355475/232918050-94295796-6719-49de-a4ff-c2bc85ef3642.png)
+
+Obtener QR
+
+![imagen](https://user-images.githubusercontent.com/106355475/232918103-2249b1b3-a99d-4d9b-ad5f-cc1d444e43d8.png)
+
 
 ### Modelo Vista Controlador
 ![imagen](https://user-images.githubusercontent.com/106355475/232680621-57576e21-4e6c-483d-be23-255c360a5571.png)
