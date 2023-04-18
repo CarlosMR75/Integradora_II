@@ -87,7 +87,7 @@ La tabla CheckIn servira para almacenar las entradas y salidas de los empleados,
 - Tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
 
 ### Modelo de Base de Datos
-![imagen](https://user-images.githubusercontent.com/106355475/232636283-b9181045-1307-4aa1-8f03-99940354710d.png)
+![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
 
 ## Manuales
 
