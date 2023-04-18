@@ -88,7 +88,7 @@ La tabla CheckIn servira para almacenar las entradas y salidas de los empleados,
 - Tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
 
 ### Diagrama de Gantt
-
+![imagen](https://user-images.githubusercontent.com/106355475/232641177-18fc520c-171b-4533-b06f-e1b9498cdc4d.png)
 
 ## Manuales
 
