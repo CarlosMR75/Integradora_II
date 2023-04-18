@@ -76,6 +76,8 @@ Control de Asistencias
 ![imagen](https://user-images.githubusercontent.com/106355475/232680621-57576e21-4e6c-483d-be23-255c360a5571.png)
 
 ### Diagramas de Componentes
+Diagrama de componentes checkIn
+
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
 
 ### Modelo de Base de Datos
