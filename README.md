@@ -73,7 +73,7 @@ Control de Asistencias
 ![imagen](https://user-images.githubusercontent.com/106355475/232169775-2751f0f6-a4de-4fb1-aa09-571d4fa0411e.png)
 
 ### Modelo Vista Controlador
-![imagen](https://user-images.githubusercontent.com/106355475/232170385-4176e838-11de-4278-a086-f859e03ae2c2.png)
+![imagen](https://user-images.githubusercontent.com/106355475/232680621-57576e21-4e6c-483d-be23-255c360a5571.png)
 
 ### Diagramas de Componentes
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
