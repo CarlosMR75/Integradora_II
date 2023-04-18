@@ -78,6 +78,7 @@ Control de Asistencias
 ### Diagramas de Componentes
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
 
+<!-- Modelo de la Base de Datos -->
 ### Modelo de Base de Datos
 ![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
 
