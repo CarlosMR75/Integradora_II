@@ -20,6 +20,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
         <li><a href="#Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
         <li><a href="#Diagramas-de-Componentes">Diagramas de Componentes</a></li>
         <li><a href="#Modelo-de-Base-de-Datos">Modelo de Base de Datos</a></li>
+        <li><a href="#Diagrama-de-Clases">Diagrama de Clases</a></li>
         <li><a href="#Diagrama-de-Gantt">Diagrama de Grantt</a></li>
       </ul>
       <a href="#Manuales">Manuales</a>
@@ -105,6 +106,9 @@ La tabla usuarios almacenara los datos de los usuarios, estos son utilizados par
 - telefono: Número teléfonico de cada usuario en la base de datos (Valor Tipo Cadena).
 - password: Contraseña de cada usuario con la que podra ingresar al sistema (Valor Tipo Cadena).
 - roles: Arreglo donde se almacenaran los roles de cada usuario, esto permite tener mas de un rol a cada usuario (Arreglo de Tipo Cadena).
+
+### Diagrama de Clases
+![imagen](https://user-images.githubusercontent.com/106355475/232862691-a13a23b4-c55b-4f37-8f74-ec17c16c9192.png)
 
 ### Diagrama de Gantt
 ![imagen](https://user-images.githubusercontent.com/106355475/232641177-18fc520c-171b-4533-b06f-e1b9498cdc4d.png)
