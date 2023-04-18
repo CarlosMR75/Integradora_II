@@ -9,7 +9,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
       <ul>
         <li><a href="#Descripción">Descripción</a></li>
         <li><a href="#Objetivo-del-Proyecto">Objetivo del Proyecto</a></li>
-        <li><a href="#Objetivos-Específicos">Objetivo del Proyecto</a></li>
+        <li><a href="#Objetivos-Específicos">Objetivo Especificos</a></li>
       </ul>
       <a href="#Análisis-de-Solución">Análisis y Diseño de la Solución</a>
       <ul>
@@ -125,6 +125,8 @@ El manual contiene ejemplos visuales de como realizar las operaciones en la apli
 [Manual de Usuario](https://github.com/CarlosMR75/Integradora_II/blob/main/Documentaci%C3%B3n/Manual%20de%20usuario.pdf)
 
 ## Codigo Fuente
+A continuación se anexan los repositorios con la documentación del Front-End y Back-End realizada por algunos integrantes del equipo para explicar el funcionamiento de la aplicación.
+
 - [Front-End](https://github.com/CarlosMR75/Integradora_II/tree/main/GymCapyFit)
 - [Back-End](https://github.com/CarlosMR75/Integradora_II/tree/main/BackEnd-GymCapyFit)
 
