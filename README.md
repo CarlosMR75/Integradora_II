@@ -30,7 +30,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
       </ul>
       <a href="##Codigo-Fuente">Codigo Fuente</a>
       <a href="##Casos-de-Prueba">Casos de Prueba</a>
-      <a href="##Organigrama-del-Equipo">Organigrama del Equipo</a>
+      <a href="##organigrama-del-equipo">Organigrama del Equipo</a>
     </li>
     <li>
   </ol>
