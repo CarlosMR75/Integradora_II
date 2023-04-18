@@ -79,13 +79,31 @@ Control de Asistencias
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
 
 ### Modelo de Base de Datos
-![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
+Tabla checkIn
 
-La tabla CheckIn servira para almacenar las entradas y salidas de los empleados, esta cuenta con las siguientes columnas:
-- IdEmpleado: Valor que servira como identificador para asignar el registro a un empleado (Valor Numerico). 
-- Fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
-- Hora: Campo en el que se almacenaran los minutos y la hora en que se hizo el registro (Valor Tipo Cadena).
-- Tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
+![imagen](https://user-images.githubusercontent.com/106355475/232687957-68ae0924-f83a-43b1-b5fc-ba468f8c1a59.png)
+
+La tabla checkIn almacenara las entradas y salidas de los empleados, esta cuenta con las siguientes columnas:
+- idEmpleado: Valor que servira como identificador para asignar el registro a un empleado (Valor Numerico). 
+- fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
+- hora: Campo en el que se almacenaran los minutos y la hora en que se hizo el registro (Valor Tipo Cadena).
+- tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
+
+Tabla usuarios
+
+![imagen](https://user-images.githubusercontent.com/106355475/232687360-d339d538-80d8-4266-a2f8-fd3963499243.png)
+
+La tabla usuarios almacenara los datos de los usuarios, estos son utilizados para generar el código QR que sera utlizado en el checkIn, esta cuenta con las siguientes columnas:
+- id: Identificador único para cada usuario (Valor Numerico).
+- nombreUsuario: Valor para almacenar un nombre a cada usuario dentro de la base de datos (Valor Tipo Cadena).
+- foto: Valor donde se almacenara la ubicación de una foto para cada usuario (Valor Tipo Cadena).
+- edad: Edad de cada usuario (Valor Numerico).
+- sueldo: Sueldo que percibe cada usuario (Valor Numerico).
+- turno: Identificador para diferenciar el horario de cada usuario (Valor Tipo Cadena).
+- email: Correo electrónico de cada usuario en la base de datos (Valor Tipo Cadena).
+- telefono: Número teléfonico de cada usuario en la base de datos (Valor Tipo Cadena).
+- password: Contraseña de cada usuario con la que podra ingresar al sistema (Valor Tipo Cadena).
+- roles: Arreglo donde se almacenaran los roles de cada usuario, esto permite tener mas de un rol a cada usuario (Arreglo de Tipo Cadena).
 
 ### Diagrama de Gantt
 ![imagen](https://user-images.githubusercontent.com/106355475/232641177-18fc520c-171b-4533-b06f-e1b9498cdc4d.png)
