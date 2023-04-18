@@ -1,4 +1,4 @@
-# GymCapyFit
+# Sportacus Gym
 Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio asignado por la empresa iTTiVA
 
 ## Contenido
@@ -15,7 +15,6 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
       <ul>
         <li><a href="#Diagrama-de-Casos-de-Uso">Diagrama de Casos de Uso</a></li>
         <li><a href="#Diagramas-de-Actividades">Diagrama de Actividades</a></li>
-        <li><a href="#Objetivos-Específicos">Objetivo del Proyecto</a></li>
         <li><a href="#Historias-de-Usuario">Historias de Usuario</a></li>
         <li><a href="#Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
         <li><a href="#Diagramas-de-Componentes">Diagramas de Componentes</a></li>
