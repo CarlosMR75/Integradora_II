@@ -6,7 +6,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
   <summary>contenido</summary>
   <ol>
     <li>
-      <a href="## Generalidades">Análisis y Diseño de la Solución</a>
+      <a href="##-Generalidades">Generalidades</a>
       <ul>
         <li><a href="###Descripción">Descripción</a></li>
         <li><a href="###Objetivo-del-Proyecto">Objetivo del Proyecto</a></li>
