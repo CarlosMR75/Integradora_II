@@ -133,7 +133,7 @@ A continuación se anexan los repositorios con la documentación del Front-End y
 ## Casos de Prueba
 Este cuenta con las pruebas necesarias para probar la funcionalidad del CheckIn de la aplicación mediante el código QR de un empleado.
 
-[Casos de Prueba CheckIn]()
+[Casos de Prueba CheckIn](https://docs.google.com/spreadsheets/d/1mwLT8bF0Y0MHDZP8omcphYW4_Qvtk7hS/edit?usp=share_link&ouid=101088110215326906116&rtpof=true&sd=true)
 
 ## Organigrama del Equipo
 ![imagen](https://user-images.githubusercontent.com/106355475/232168585-a70f95e6-c174-4a45-b36e-84d3d172024c.png)
