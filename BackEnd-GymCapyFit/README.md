@@ -16,3 +16,9 @@ La documentación del Backend fue realizada por los integrantes Juan Pablo Jimen
 - [Routes](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/routes/rol.routes.js) (Elaborado por Juan Pablo Jimenez Jaime)
 - [Model](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/models/Rol.js) (Elaborado por Juan Pablo Jimenez Jaime)
 - [Controller](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/controllers/Rol.controller.js) (Elaborado por Juan Pablo Jimenez Jaime)
+
+## Configuración del Servidor
+- [Index](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/index.js)
+- [Database](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/database.js)
+- [Config](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/config.js)
+- [App](https://github.com/CarlosMR75/Integradora_II/blob/main/BackEnd-GymCapyFit/src/app.js)
