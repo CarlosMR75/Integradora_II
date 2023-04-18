@@ -1,4 +1,4 @@
-# Sportacus Gym
+# Sistema de Gestión de Gimnasio - Sportacus Gym - Módulo CheckIn
 Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio asignado por la empresa iTTiVA
 
 ## Contenido
