@@ -5,7 +5,6 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 <details>
   <summary>Contenido</summary>
   <ol>
-    <li>
       <a href="#Generalidades">Generalidades</a>
       <ul>
         <li><a href="#Descripción">Descripción</a></li>
@@ -29,10 +28,10 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
         <li><a href="#Manual-de-Usuario">Manual de Usuario</a></li>
       </ul>
       <a href="#Codigo-Fuente">Codigo Fuente</a>
+      <br>
       <a href="#Casos-de-Prueba">Casos de Prueba</a>
+      <br>
       <a href="#organigrama-del-equipo">Organigrama del Equipo</a>
-    </li>
-    <li>
   </ol>
 </details>
 
