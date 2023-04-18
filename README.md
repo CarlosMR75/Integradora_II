@@ -78,16 +78,13 @@ Control de Asistencias
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
 
 ### Modelo de Base de Datos
-![imagen](https://user-images.githubusercontent.com/106355475/232168859-a0956208-e7ed-4372-a4ff-7aaf66800a7f.png)
+![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
 
 La tabla CheckIn servira para almacenar las entradas y salidas de los empleados, esta cuenta con las siguientes columnas:
 - IdEmpleado: Valor que servira como identificador para asignar el registro a un empleado (Valor Numerico). 
 - Fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
 - Hora: Campo en el que se almacenaran los minutos y la hora en que se hizo el registro (Valor Tipo Cadena).
 - Tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
-
-### Modelo de Base de Datos
-![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
 
 ## Manuales
 
