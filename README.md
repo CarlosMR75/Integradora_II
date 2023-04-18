@@ -6,31 +6,31 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
   <summary>Contenido</summary>
   <ol>
     <li>
-      <a href="##Generalidades">Generalidades</a>
+      <a href="#Generalidades">Generalidades</a>
       <ul>
-        <li><a href="#descripción">Descripción</a></li>
-        <li><a href="##Objetivo-del-Proyecto">Objetivo del Proyecto</a></li>
-        <li><a href="###Objetivos-Específicos">Objetivo del Proyecto</a></li>
+        <li><a href="#Descripción">Descripción</a></li>
+        <li><a href="#Objetivo-del-Proyecto">Objetivo del Proyecto</a></li>
+        <li><a href="#Objetivos-Específicos">Objetivo del Proyecto</a></li>
       </ul>
-      <a href="##Análisis-de-Solución">Análisis y Diseño de la Solución</a>
+      <a href="#Análisis-de-Solución">Análisis y Diseño de la Solución</a>
       <ul>
-        <li><a href="###Diagrama-de-Casos-de-Uso">Diagrama de Casos de Uso</a></li>
-        <li><a href="###Diagramas-de-Actividades">Diagrama de Actividades</a></li>
-        <li><a href="###Objetivos-Específicos">Objetivo del Proyecto</a></li>
-        <li><a href="###Historias-de-Usuario">Historias de Usuario</a></li>
-        <li><a href="###Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
-        <li><a href="###Diagramas-de-Componentes">Diagramas de Componentes</a></li>
-        <li><a href="###Modelo-de-Base-de-Datos">Modelo de Base de Datos</a></li>
-        <li><a href="###Diagrama-de-Grantt">Diagrama de Grantt</a></li>
+        <li><a href="#Diagrama-de-Casos-de-Uso">Diagrama de Casos de Uso</a></li>
+        <li><a href="#Diagramas-de-Actividades">Diagrama de Actividades</a></li>
+        <li><a href="#Objetivos-Específicos">Objetivo del Proyecto</a></li>
+        <li><a href="#Historias-de-Usuario">Historias de Usuario</a></li>
+        <li><a href="#Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
+        <li><a href="#Diagramas-de-Componentes">Diagramas de Componentes</a></li>
+        <li><a href="#Modelo-de-Base-de-Datos">Modelo de Base de Datos</a></li>
+        <li><a href="#Diagrama-de-Grantt">Diagrama de Grantt</a></li>
       </ul>
-      <a href="##Manuales">Manuales</a>
+      <a href="#Manuales">Manuales</a>
       <ul>
-        <li><a href="###Manual-de-Instalación">Manual de Instalación</a></li>
-        <li><a href="###Manual-de-Usuario">Manual de Usuario</a></li>
+        <li><a href="#Manual-de-Instalación">Manual de Instalación</a></li>
+        <li><a href="#Manual-de-Usuario">Manual de Usuario</a></li>
       </ul>
-      <a href="##Codigo-Fuente">Codigo Fuente</a>
-      <a href="##Casos-de-Prueba">Casos de Prueba</a>
-      <a href="##organigrama-del-equipo">Organigrama del Equipo</a>
+      <a href="#Codigo-Fuente">Codigo Fuente</a>
+      <a href="#Casos-de-Prueba">Casos de Prueba</a>
+      <a href="#organigrama-del-equipo">Organigrama del Equipo</a>
     </li>
     <li>
   </ol>
