@@ -21,7 +21,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
         <li><a href="#Modelo-Vista-Controlador">Modelo Vista Controlador</a></li>
         <li><a href="#Diagramas-de-Componentes">Diagramas de Componentes</a></li>
         <li><a href="#Modelo-de-Base-de-Datos">Modelo de Base de Datos</a></li>
-        <li><a href="#Diagrama-de-Grantt">Diagrama de Grantt</a></li>
+        <li><a href="#Diagrama-de-Gantt">Diagrama de Grantt</a></li>
       </ul>
       <a href="#Manuales">Manuales</a>
       <ul>
@@ -78,7 +78,6 @@ Control de Asistencias
 ### Diagramas de Componentes
 ![imagen](https://user-images.githubusercontent.com/106355475/232632802-510de471-30c7-43f0-990c-c9aaf4937710.png)
 
-<!-- Modelo de la Base de Datos -->
 ### Modelo de Base de Datos
 ![imagen](https://user-images.githubusercontent.com/106355475/232638263-e5aa9295-b88f-40e7-9583-c7b7597b98c0.png)
 
@@ -87,6 +86,9 @@ La tabla CheckIn servira para almacenar las entradas y salidas de los empleados,
 - Fecha: Campo en el que se almacenara el dia, mes y año en el que se hizo el registro (Valor Tipo Cadena).
 - Hora: Campo en el que se almacenaran los minutos y la hora en que se hizo el registro (Valor Tipo Cadena).
 - Tipo: Valor que pemitira diferenciar cuando un registro es de *entrada* o *salida* (Valor Tipo Cadena).
+
+### Diagrama de Gantt
+
 
 ## Manuales
 
