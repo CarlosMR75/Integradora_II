@@ -1,3 +1,4 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({

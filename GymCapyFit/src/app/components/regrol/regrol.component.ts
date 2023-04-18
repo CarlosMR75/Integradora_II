@@ -1,4 +1,5 @@
 /*
+Documentación realizada por Carlos Eduardo Mata Rojas
 Este es un componente de Angular para la edición de roles.
 */
 import { Component, OnInit } from '@angular/core';

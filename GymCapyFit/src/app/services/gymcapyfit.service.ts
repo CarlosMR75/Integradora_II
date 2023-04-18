@@ -1,3 +1,8 @@
+/*
+  Documentación realizada por:
+  Carlos Eduardo Mata Rojas
+  Juan Pablo Jimenez Jaime
+*/
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';

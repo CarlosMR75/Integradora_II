@@ -1,3 +1,4 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { GymcapyfitService } from 'src/app/services/gymcapyfit.service';

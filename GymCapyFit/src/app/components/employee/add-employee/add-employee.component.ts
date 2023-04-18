@@ -1,3 +1,4 @@
+//Documentación realizada por Carlos Eduardo Mata Rojas
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { GymcapyfitService } from 'src/app/services/gymcapyfit.service';

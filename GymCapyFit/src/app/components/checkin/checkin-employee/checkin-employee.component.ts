@@ -1,3 +1,4 @@
+// Documentación realizada por Carlos Eduardo Mata Rojas
 import { Component, OnInit, ViewChild, ElementRef, HostListener } from '@angular/core';
 import Chart from 'chart.js/auto';
 import { GymcapyfitService } from 'src/app/services/gymcapyfit.service';

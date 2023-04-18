@@ -1,4 +1,5 @@
 /* 
+Documentación realizada por Juan Pablo Jimenez Jaime
 Este componente se encarga de manejar la funcionalidad de check-in en la aplicación.
 Se importa los módulos y servicios necesarios, como GymcapyfitService y Sweetalert2.
 

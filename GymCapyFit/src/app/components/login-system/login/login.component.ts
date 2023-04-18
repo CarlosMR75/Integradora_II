@@ -1,3 +1,4 @@
+//Documentación realizada por Juan Pablo Jimenez Jaime
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { GymcapyfitService } from 'src/app/services/gymcapyfit.service';
