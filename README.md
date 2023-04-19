@@ -73,7 +73,7 @@ Registro de Asistencia
 
 Control de Asistencias
 
-![imagen](https://user-images.githubusercontent.com/106355475/232172160-911e5b39-6dcb-4eaf-8394-c394a1406e76.png)
+![Diagrama de Acts -Diagrama de Control de asistencias](https://user-images.githubusercontent.com/106355475/233199256-405a739b-c760-49c0-ba86-d4384148959d.jpg)
 
 ### Historias de Usuario
 Registro CheckIn
