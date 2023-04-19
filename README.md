@@ -64,7 +64,7 @@ Gestiónar las asistencias de los empleados en un gimnasio, generando un código
 ## Análisis de Solución
 
 ### Diagrama de Casos de Uso
-![imagen](https://user-images.githubusercontent.com/106355475/232972439-391b1191-266e-4825-951c-ae7b01413224.png)
+![imagen](https://user-images.githubusercontent.com/106355475/233145245-a21111b7-dffd-4ae1-9cda-4fc456ff1e41.png)
 
 ### Diagramas de Actividades
 Registro de Asistencia
