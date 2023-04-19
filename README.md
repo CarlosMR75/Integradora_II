@@ -42,7 +42,7 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 ## Generalidades
 
 ### Descripción
-Este proyecto se centra en el desarrollo de un sistema de gestión para el gimnasio **Sportacus Gym**, este proyecto esta integrado por diversos módulos en este caso el repositorio se centra en el módulo de CheckIn el cual tiene un nivel de impotancia alto para el sistema ya que este permite registrar la hora de entrada y salida de un empleado por dia al escánear un código QR, permite llevar un control de las asistencias y retardos por cada empleado y genera un codigo QR con los datos del empleado para que estos puedan registrar su asistencia.
+Este proyecto se centra en el desarrollo de un sistema de gestión para el gimnasio **Sportacus Gym**, este proyecto esta integrado por diversos módulos en este caso el repositorio se centra en el módulo de CheckIn el cual tiene un alto nivel de impotancia para el sistema ya que este permite registrar la hora de entrada y salida de un empleado por dia al escánear un código QR, permite llevar un control de las asistencias y retardos por cada empleado y genera un codigo QR con los datos del empleado para que estos puedan registrar su asistencia.
 
 Este módulo cuenta con tres funcionalidades principales mencionadas anteriormente, como primera parte se genera un código QR por cada empleado, este es dinámico ya que si se llegan a actualizar los datos del empleado el código QR también se actualizara, este es generado mediante la API **qrserver**, a esta se le envian los datos del empleado en formato JSON y este devuelve una imagen con el código ya generado.
 
