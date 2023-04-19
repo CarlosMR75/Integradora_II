@@ -38,8 +38,6 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 ### Integrantes
 - Juan Pablo Jimenez Jaime
 - Carlos Eduardo Mata Rojas
-- Marisol Nuñez Monasterio
-- Maria Fernanda Palacios Rangel
 
 ## Generalidades
 
