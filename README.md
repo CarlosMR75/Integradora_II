@@ -67,9 +67,9 @@ Gestiónar las asistencias de los empleados en un gimnasio, generando un código
 ![imagen](https://user-images.githubusercontent.com/106355475/233145245-a21111b7-dffd-4ae1-9cda-4fc456ff1e41.png)
 
 ### Diagramas de Actividades
-Registro de Asistencia
+Registro de CheckIn
 
-![imagen](https://user-images.githubusercontent.com/106355475/232172149-e524fa39-57ad-42bf-ad2b-6d0057bbce85.png)
+![Diagrama de Acts -Diagrama de Registro Checkin](https://user-images.githubusercontent.com/106355475/233207013-94f8a828-0971-4209-81d8-5a6b83b1a1e0.jpg)
 
 Control de Asistencias
 
