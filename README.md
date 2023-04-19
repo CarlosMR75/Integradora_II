@@ -83,7 +83,7 @@ Obtener QR
 
 
 ### Modelo Vista Controlador
-![imagen](https://user-images.githubusercontent.com/106355475/232680621-57576e21-4e6c-483d-be23-255c360a5571.png)
+![232680621-57576e21-4e6c-483d-be23-255c360a5571](https://user-images.githubusercontent.com/106355475/232980975-4fe5c63b-4428-468c-a30c-59ef3af00180.png)
 
 ### Diagramas de Componentes
 Diagrama de componentes checkIn
