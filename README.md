@@ -42,9 +42,18 @@ Repositorio enfocado al desarrollo de un sistema para gestión de un gimnasio as
 ## Generalidades
 
 ### Descripción
+Este proyecto se centra en el desarrollo de un sistema de gestión para el gimnasio **Sportacus Gym**, este proyecto esta integrado por diversos módulos en este caso el repositorio se centra en el módulo de CheckIn el cual tiene un nivel de impotancia alto para el sistema ya que este permite registrar la hora de entrada y salida de un empleado por dia al escánear un código QR, permite llevar un control de las asistencias y retardos por cada empleado y genera un codigo QR con los datos del empleado para que estos puedan registrar su asistencia.
+
+Este módulo cuenta con tres funcionalidades principales mencionadas anteriormente, como primera parte se genera un código QR por cada empleado, este es dinámico ya que si se llegan a actualizar los datos del empleado el código QR también se actualizara, este es generado mediante la API **qrserver**, a esta se le envian los datos del empleado en formato JSON y este devuelve una imagen con el código ya generado.
+
+La segunda funcionalidad con la que cuenta el módulo es la posibilidad de registrar la entrada y salida de un empleado en la base de datos, para esto se utiliza el código QR generado por la API y de este se extraen los datos del empleado, para el escáner QR se utilizo la libreria de angular **ZXingScannerModule**, al momento de colocar el QR frente al escaner este tomara el Id del empleado y obtendra la Fecha y Hora actuales, posteriormente este registro es insertado en la base de datos.
+
+Por ultimo tenemos la funcionalidad de consultar asistencias, en esta podemos elegir un empleado y revisar los registros de asistencia con los que cuenta, aqui se cuenta con tres apartados, el primer es el apartado **Data** en este se listan todos los registros del empleado con la fecha, hora y el tipo con el cual se puede diferenciar si el registro es de entrada o salida, en el segundo apartado **Entry Time** se tiene un calendario en el cual se pueden ver por mes los registros, en este se marcan con un circulo verde las asistencia en tiempo, con un circulo amarrillo los retardos y en las casillas si marcar no se cuenta con un registro, si damos clic en alguna de las fechas con un registro válido se mostrara mediante un Modal la hora de entrada y salida, si damos clic en una fecha sin registro se mostrara un Modal para indicar que esa fecha no cuenta con ningún dato, en el ultimo apartado **Monthly record** se genera una gráfica con un resumen de las asistencias y retardos del empleado marcadas en verde y amarillo.
+
+En general el sistema permitira agilizar las operaciones que se realizan dentro del gimnasio **Sportacus Gym** y el módulo de CheckIn permitira a los administradores llevar un control mas ágil de las asistencias generando datos constantemente y manteniendo actualizados los registros.
 
 ### Objetivo del Proyecto
-Gestiónar las asistencias de los empleados en un gimnasio, generando un código QR que contendra los datos del empleado y mediante un escáner QR este permitira al empleado registrar su entrada y salida, ademas se podra consultar un registro de las asistencias, retardos y faltas de cada empleado por mes.
+Gestiónar las asistencias de los empleados en un gimnasio, generando un código QR que contendra los datos del empleado y mediante un escáner QR permitira al empleado registrar su entrada y salida, teniendo esto en cuenta un empleado podra consultar las asistencias, retardos y faltas de cada empleado por mes, estos datos pueden ser usados para premiar la puntualidad de un empleado o por el contrario para amonestarlo ya sea por exceso de faltas o retardos.
 
 ### Objetivos Específicos 
 - Registrar entrada y salida de los empleados del gimnasio.
