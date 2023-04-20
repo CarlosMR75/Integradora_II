@@ -69,8 +69,7 @@ Gestiónar las asistencias de los empleados en un gimnasio, generando un código
 ### Diagramas de Actividades
 Consultar QR
 
-![Diagrama de Acts -Diagrama de Obtener QR]![QR](https://user-images.githubusercontent.com/107881774/233234029-7f8a0bc9-6064-451f-944e-39741db31741.jpeg)
-(https://user-images.githubusercontent.com/106355475/233208549-35fec0ea-1437-4267-8a9f-440f25500700.jpg)
+![Diagrama de Acts -Diagrama de Obtener QR](https://user-images.githubusercontent.com/107881774/233234029-7f8a0bc9-6064-451f-944e-39741db31741.jpeg)
 
 Registro de CheckIn
 
